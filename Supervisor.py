@@ -1,5 +1,3 @@
-
-
 from __future__ import division
 from subprocess import PIPE, Popen
 # Import the ISStreamer module
