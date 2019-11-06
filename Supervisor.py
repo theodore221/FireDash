@@ -1,8 +1,4 @@
 
-#####
-# This is a custom 'getting started' script, made with care for theodore.xavier221@gmail.com.
-# If you have any questions, please email us! support@initialstate.com
-#####
 
 from __future__ import division
 from subprocess import PIPE, Popen
